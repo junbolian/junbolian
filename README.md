@@ -50,13 +50,13 @@ If you have experience, resources, or a similar interest in this field, **let’
 
 Explore my repositories where I work on cutting-edge algorithms, AI models, and optimization techniques! 🔍👇
 
-- [Repository 1](https://github.com/JunboLian/IECO)
-- [Repository 2](https://github.com/JunboLian/SVBM)
-- [Repository 3](https://github.com/JunboLian/Trend-Aware-Mechanism)
+- [PO: Parrot Optimizer](https://github.com/JunboLian/PO)
+- [ECO: Educational Competition Optimizer](https://github.com/JunboLian/ECO)
+- [IECO: Improved Educational Competition Optimizer](https://github.com/JunboLian/IECO)
+- [Support Vector Boosting Machine (SVBM)](https://github.com/JunboLian/SVBM)
+- [Trend-Aware-Mechanism](https://github.com/JunboLian/Trend-Aware-Mechanism)
 
 ---
 
 ## 🌍 **Let’s Connect!** 🌟  
 Feel free to reach out if you share similar interests or if you'd like to collaborate on exciting projects. 🚀
-
----
