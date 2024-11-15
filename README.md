@@ -1,27 +1,62 @@
-## 👨‍💻 About Me
 
-Hi! I’m **Junbo Lian**, a passionate researcher at the **School of Mathematics and Computer Science**, **Zhejiang A&F University** 🌱. Currently, I’m preparing to apply for graduate studies in the United States 🇺🇸, focusing on **Data Science** and **Generative AI** (specifically **Text-to-3D generation**) 🤖✨.  
+## 🎓 Junbo Jacob Lian's Homepage 🌟
 
-I have been fortunate to publish several academic papers in prestigious journals, including **Expert Systems with Applications**, **Computers in Biology and Medicine**, and **International Journal of Systems Science** 📚. One of my papers was even recognized as an **ESI Hot Paper** 🎉!  
+👋 **Hi there! I'm Junbo Jacob Lian**  
+Currently an undergraduate student at the **School of Mathematics and Computer Science**, Zhejiang A&F University. I'm passionate about **Mathematical Modeling**, **Evolutionary Computation**, **Generative AI**, and **Swarm Optimization**. 🌐
 
-I'm also the holder of multiple **national invention patents** related to **Machine Learning** and **Data Mining** 💡. My dedication to academic excellence was recognized in 2024 when I was honored with the **National Scholarship** for outstanding academic achievements 🏆.
+📚 **Publications**  
+I've had the privilege of publishing several academic papers in top-tier international journals, including:
+
+- **Expert Systems with Applications** 📘  
+- **Computers in Biology and Medicine** 💻  
+- **International Journal of Systems Science** 🌍  
+- One of my papers was even recognized as **ESI Hot Papers**! 🏆
+
+🔒 **Innovation & Patents**  
+I’ve also applied for multiple **national invention patents** in the fields of **Machine Learning** and **Data Mining** 🧠🔍.
+
+🏅 **Achievements**  
+In 2024, I was honored with the **National Scholarship** for my outstanding academic performance! 🎉
 
 ---
 
-## 📬 Get in Touch
+## 📬 Contact Information 📞
 
-- **Homepage**: [junbolian.github.io](https://junbolian.github.io/)
-- **ResearchGate**: [Junbo Lian](https://www.researchgate.net/profile/Junbo-Lian-2)
-- **ORCID**: [0000-0001-7602-0022](https://orcid.org/0000-0001-7602-0022)
-- **Email**: junbolian@qq.com ✉️
+- 🌐 **Homepage**: [junbolian.github.io](https://junbolian.github.io/)  
+- 📄 **ResearchGate**: [Junbo Lian on ResearchGate](https://www.researchgate.net/profile/Junbo-Lian-2)  
+- 🔗 **ORCID**: [0000-0001-7602-0022](https://orcid.org/0000-0001-7602-0022)  
+- ✉️ **Email**: [junbolian@qq.com](mailto:junbolian@qq.com)
 
 ---
 
-## 🎓 Graduate School & RA Opportunities
+## 🔬 **Research Interests** 💡
 
-I am currently applying for a **Master's degree** in **Data Science** in the U.S. 🎓 and am also interested in pursuing a **PhD** in **Generative AI** (Text-to-3D generation) 🤖💬.  
+- 🧑‍🏫 **Mathematical Modeling**  
+- 🤖 **Evolutionary Computation**  
+- 🎨 **Generative AI** (especially **Text-to-3D generation**)  
+- 🐝 **Swarm Optimization**  
 
-If you have experience or channels in this field or share similar research interests, I would love to connect with you! Looking for **Research Assistant** (RA) opportunities 🔍. 
+---
 
-Feel free to **reach out**! 📩
+## 🎯 **Graduate School Applications** 📚  
+I'm currently applying for **graduate studies** in **Data Science** in the United States 🇺🇸. My future plans include pursuing a **Ph.D. in Generative AI**, specifically in **Text-to-3D generation**. 📊🎮
 
+🤝 **Looking for RA Opportunities**  
+If you have experience, resources, or a similar interest in this field, **let’s connect!** I’m eager to collaborate with like-minded individuals or teams. 🙌
+
+---
+
+## 💻 **GitHub Projects** 👨‍💻
+
+Explore my repositories where I work on cutting-edge algorithms, AI models, and optimization techniques! 🔍👇
+
+- [Repository 1](https://github.com/JunboLian/IECO)
+- [Repository 2](https://github.com/JunboLian/SVBM)
+- [Repository 3](https://github.com/JunboLian/Trend-Aware-Mechanism)
+
+---
+
+## 🌍 **Let’s Connect!** 🌟  
+Feel free to reach out if you share similar interests or if you'd like to collaborate on exciting projects. 🚀
+
+---
