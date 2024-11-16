@@ -39,7 +39,7 @@ In 2024, I was honored with the **National Scholarship** for my outstanding acad
 ---
 
 ## 🎯 **Graduate School Applications** 📚  
-I'm currently applying for **graduate studies** in **Data Science** in the United States 🇺🇸. My future plans include pursuing a **Ph.D. in Generative AI**, specifically in **Text-to-3D generation**. 📊🎮
+I'm currently applying for **graduate studies** in **Data Science** in the United States. My future plans include pursuing a **Ph.D. in Generative AI**, specifically in **Text-to-3D generation**. 📊🎮
 
 🤝 **Looking for RA Opportunities**  
 If you have experience, resources, or a similar interest in this field, **let’s connect!** I’m eager to collaborate with like-minded individuals or teams. 🙌
