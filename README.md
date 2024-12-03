@@ -53,9 +53,9 @@ Explore my repositories where I work on cutting-edge algorithms, AI models, and 
 - [PO: Parrot Optimizer](https://github.com/JunboLian/PO)
 - [ECO: Educational Competition Optimizer](https://github.com/JunboLian/ECO)
 - [IECO: Improved Educational Competition Optimizer](https://github.com/JunboLian/IECO)
-- [Support Vector Boosting Machine (SVBM)](https://github.com/JunboLian/SVBM)
-- [Trend Aware Mechanism (TAM)](https://github.com/JunboLian/Trend-Aware-Mechanism)
-- [Twisted Convolutional Networks (TCNs)](https://github.com/JunboLian/Twisted-Convolutional-Networks)
+- [SVBM: Support Vector Boosting Machine](https://github.com/JunboLian/SVBM)
+- [TAM: Trend Aware Mechanism](https://github.com/JunboLian/Trend-Aware-Mechanism)
+- [TCNs: Twisted Convolutional Networks](https://github.com/JunboLian/Twisted-Convolutional-Networks)
 
 ---
 
