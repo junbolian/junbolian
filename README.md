@@ -2,7 +2,7 @@
 ## 🎓 Junbo Jacob Lian's Homepage 🌟
 
 👋 **Hi there! I'm Junbo Jacob Lian**  
-Currently an undergraduate student at the **School of Mathematics and Computer Science**, Zhejiang A&F University. I'm passionate about **Mathematical Modeling**, **Evolutionary Computation**, **Generative AI**, and **Swarm Optimization**. 🌐
+Currently a graduate student at the **McCormick School of Engineering**, Northwestern University. I'm passionate about **Mathematical Modeling**, **Evolutionary Computation**, **Generative AI**, and **Swarm Optimization**. 🌐
 
 📚 **Publications**  
 I've had the privilege of publishing several academic papers in top-tier international journals, including:
@@ -37,9 +37,6 @@ In 2024, I was honored with the **National Scholarship** for my outstanding acad
 - 🐝 **Swarm Optimization**  
 
 ---
-
-## 🎯 **Graduate School Applications** 📚  
-I'm currently applying for **graduate studies** in **Data Science** in the United States. My future plans include pursuing a **Ph.D. in Generative AI**, specifically in **Text-to-3D generation**. 📊🎮
 
 🤝 **Looking for RA Opportunities**  
 If you have experience, resources, or a similar interest in this field, **let’s connect!** I’m eager to collaborate with like-minded individuals or teams. 🙌
