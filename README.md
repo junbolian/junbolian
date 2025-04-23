@@ -10,8 +10,8 @@ I've had the privilege of publishing several academic papers in top-tier interna
 - **Expert Systems with Applications** 📘  
 - **Computers in Biology and Medicine** 💻  
 - **International Journal of Systems Science** 🌍
-- **Applied Soft Computing**🔍
-- **Measurement**🧠
+- **Applied Soft Computing** 🔍
+- **Measurement** 🧠
 - One of my papers was even recognized as **ESI Hot Papers**! 🏆
 
 🔒 **Innovation & Patents**  
