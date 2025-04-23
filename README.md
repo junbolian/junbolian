@@ -2,14 +2,16 @@
 ## 🎓 Junbo Jacob Lian's Homepage 🌟
 
 👋 **Hi there! I'm Junbo Jacob Lian**  
-Currently a graduate student at the **McCormick School of Engineering**, Northwestern University. I'm passionate about **Mathematical Modeling**, **Evolutionary Computation**, **Generative AI**, and **Swarm Optimization**. 🌐
+Currently a graduate student at the **McCormick School of Engineering**, Northwestern University. I'm passionate about **Mathematical Modeling**, **Evolutionary Computation**, **Generative AI**, and **Machine Learning**. 🌐
 
 📚 **Publications**  
 I've had the privilege of publishing several academic papers in top-tier international journals, including:
 
 - **Expert Systems with Applications** 📘  
 - **Computers in Biology and Medicine** 💻  
-- **International Journal of Systems Science** 🌍  
+- **International Journal of Systems Science** 🌍
+- **Applied Soft Computing**🔍
+- **Measurement**🧠
 - One of my papers was even recognized as **ESI Hot Papers**! 🏆
 
 🔒 **Innovation & Patents**  
@@ -34,7 +36,7 @@ In 2024, I was honored with the **National Scholarship** for my outstanding acad
 - 🧑‍🏫 **Mathematical Modeling**  
 - 🤖 **Evolutionary Computation**  
 - 🎨 **Generative AI** (especially **Text-to-3D generation**)  
-- 🐝 **Swarm Optimization**  
+- 🐝 **Machine Learning**  
 
 ---
 
@@ -47,6 +49,7 @@ If you have experience, resources, or a similar interest in this field, **let’
 
 Explore my repositories where I work on cutting-edge algorithms, AI models, and optimization techniques! 🔍👇
 
+- [Generative Foundation Models](https://github.com/JunboLian/Generative_Foundation_Models)
 - [PO: Parrot Optimizer](https://github.com/JunboLian/PO)
 - [ECO: Educational Competition Optimizer](https://github.com/JunboLian/ECO)
 - [IECO: Improved Educational Competition Optimizer](https://github.com/JunboLian/IECO)
