@@ -12,7 +12,6 @@ I've had the privilege of publishing several academic papers in top-tier interna
 - **International Journal of Systems Science** 🌍
 - **Applied Soft Computing** 🔍
 - **Measurement** 🧠
-- One of my papers was even recognized as **ESI Hot Papers**! 🏆
 
 🔒 **Innovation & Patents**  
 I’ve also applied for multiple **national invention patents** in the fields of **Machine Learning** and **Data Mining** 🧠🔍.
