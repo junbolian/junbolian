@@ -7,11 +7,12 @@ Currently a graduate student at the **McCormick School of Engineering**, Northwe
 📚 **Publications**  
 I've had the privilege of publishing several academic papers in top-tier international journals, including:
 
-- **Expert Systems with Applications** 📘  
-- **Computers in Biology and Medicine** 💻  
-- **International Journal of Systems Science** 🌍
-- **Applied Soft Computing** 🔍
-- **Measurement** 🧠
+- **Expert Systems with Applications**
+- **Swarm and Evolutionary Computation** 
+- **Computers in Biology and Medicine** 
+- **International Journal of Systems Science** 
+- **Applied Soft Computing** 
+- **Measurement** 
 
 🔒 **Innovation & Patents**  
 I’ve also applied for multiple **national invention patents** in the fields of **Machine Learning** and **Data Mining** 🧠🔍.
