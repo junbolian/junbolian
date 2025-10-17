@@ -27,21 +27,16 @@ In 2024, I was honored with the **National Scholarship** for my outstanding acad
 - 🌐 **Homepage**: [junbolian.github.io](https://junbolian.github.io/)  
 - 📄 **ResearchGate**: [Junbo Lian on ResearchGate](https://www.researchgate.net/profile/Junbo-Lian-2)  
 - 🔗 **ORCID**: [0000-0001-7602-0022](https://orcid.org/0000-0001-7602-0022)  
-- ✉️ **Email**: [junbolian@qq.com](mailto:junbolian@qq.com)
+- ✉️ **Email**: [jacoblian@u.northwestern.edu](mailto:jacoblian@u.northwestern.edu)
 
 ---
 
 ## 🔬 **Research Interests** 💡
 
+- 🐝 **Operations Research**  
 - 🧑‍🏫 **Mathematical Modeling**  
-- 🤖 **Evolutionary Computation**  
-- 🎨 **Generative AI** (especially **Text-to-3D generation**)  
-- 🐝 **Machine Learning**  
-
----
-
-🤝 **Looking for RA Opportunities**  
-If you have experience, resources, or a similar interest in this field, **let’s connect!** I’m eager to collaborate with like-minded individuals or teams. 🙌
+- 🤖 **Machine Learning**  
+- 🎨 **Generative AI**
 
 ---
 
