@@ -12,7 +12,8 @@ I've had the privilege of publishing several academic papers in top-tier interna
 - **Computers in Biology and Medicine** 
 - **International Journal of Systems Science** 
 - **Applied Soft Computing** 
-- **Measurement** 
+- **Measurement**
+- **Neural Networks**
 
 🔒 **Innovation & Patents**  
 I’ve also applied for multiple **national invention patents** in the fields of **Machine Learning** and **Data Mining** 🧠🔍.
