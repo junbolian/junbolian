@@ -2,7 +2,7 @@
 ## 🎓 Junbo Jacob Lian's Homepage 🌟
 
 👋 **Hi there! I'm Junbo Jacob Lian**  
-Currently a graduate student at the **McCormick School of Engineering**, Northwestern University. I'm passionate about **Mathematical Modeling**, **Evolutionary Computation**, **Generative AI**, and **Machine Learning**. 🌐
+Currently a graduate student at the **McCormick School of Engineering**, Northwestern University. I'm passionate about **Mathematical Modeling**, **Evolutionary Computation**, **Generative AI**, and **Operations Research**. 🌐
 
 📚 **Publications**  
 I've had the privilege of publishing several academic papers in top-tier international journals, including:
@@ -16,7 +16,7 @@ I've had the privilege of publishing several academic papers in top-tier interna
 - **Neural Networks**
 
 🔒 **Innovation & Patents**  
-I’ve also applied for multiple **national invention patents** in the fields of **Machine Learning** and **Data Mining** 🧠🔍.
+As the primary inventor, I hold two **national invention patents** in the fields of **Data Science** 🧠🔍.
 
 🏅 **Achievements**  
 In 2024, I was honored with the **National Scholarship** for my outstanding academic performance! 🎉
@@ -38,20 +38,6 @@ In 2024, I was honored with the **National Scholarship** for my outstanding acad
 - 🧑‍🏫 **Mathematical Modeling**  
 - 🤖 **Machine Learning**  
 - 🎨 **Generative AI**
-
----
-
-## 💻 **GitHub Projects** 👨‍💻
-
-Explore my repositories where I work on cutting-edge algorithms, AI models, and optimization techniques! 🔍👇
-
-- [Generative Foundation Models](https://github.com/JunboLian/Generative_Foundation_Models)
-- [PO: Parrot Optimizer](https://github.com/JunboLian/PO)
-- [ECO: Educational Competition Optimizer](https://github.com/JunboLian/ECO)
-- [IECO: Improved Educational Competition Optimizer](https://github.com/JunboLian/IECO)
-- [SVBM: Support Vector Boosting Machine](https://github.com/JunboLian/SVBM)
-- [TAM: Trend Aware Mechanism](https://github.com/JunboLian/Trend-Aware-Mechanism)
-- [TCNs: Twisted Convolutional Networks](https://github.com/JunboLian/Twisted-Convolutional-Networks)
 
 ---
 
