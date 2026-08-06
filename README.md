@@ -2,7 +2,7 @@
 ## 🎓 Junbo Jacob Lian's Homepage 🌟
 
 👋 **Hi there! I'm Junbo Jacob Lian**  
-Currently a graduate student at the **McCormick School of Engineering**, Northwestern University. I'm passionate about **Operations Research**, **Mathematical Modeling**, **Evolutionary Computation**, **Deep Learning**, and **Large Language Models**. 🌐
+Currently a PhD student at the **National University of Singapore**. I'm passionate about **Operations Research**, **Mathematical Modeling**, **Evolutionary Computation**, **Deep Learning**, and **Large Language Models**. 🌐
 
 ---
 
